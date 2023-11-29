@@ -1,0 +1,10 @@
+{
+    "python.linting.flake8Enabled": true,
+    "flake8.interpreter": [
+        "/back/venv/bin/python"
+      ],
+    "flake8.logLevel": "warn",
+    "flake8.path": [
+        ".flake8"
+    ]
+}
