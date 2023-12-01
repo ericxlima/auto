@@ -21,4 +21,4 @@ services:
       dockerfile: ./docker/back/Dockerfile
     entrypoint: /app/wsgi-entrypoint.sh
     expose:
-      - 8000
+      - 5000
