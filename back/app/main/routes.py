@@ -1,6 +1,6 @@
 from app.main import bp
 
 
-@bp.route('/')
+@bp.route('/api/')
 def index():
     return 'This is The Main Blueprint'

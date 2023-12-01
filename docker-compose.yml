@@ -19,6 +19,6 @@ services:
     build: 
       context: .
       dockerfile: ./docker/back/Dockerfile
-    expose:
-      - 8080
     entrypoint: /app/wsgi-entrypoint.sh
+    expose:
+      - 8000
