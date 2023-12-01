@@ -1,0 +1,20 @@
+:root {
+    --color--black: #000000;
+    --color--cyan-bluish-gray: #abb8c3;
+    --color--white: #ffffff;
+    --color--pale-pink: #f78da7;
+    --color--vivid-red: #cf2e2e;
+    --color--orange: #ff6900;
+    --color--vivid-amber: #fcb900;
+    --color--light-green-cyan: #7bdcb5;
+    --color--vivid-green-cyan: #00d084;
+    --color--pale-cyan-blue: #8ed1fc;
+    --color--vivid-cyan-blue: #0693e3;
+    --color--vivid-purple: #9b51e0;
+    --color--colibri-color-1: rgb(213, 0, 34);
+    --color--colibri-color-2: rgb(228, 7, 43);
+    --color--colibri-color-3: rgb(127, 127, 127);
+    --color--colibri-color-4: rgb(164, 162, 162);
+    --color--colibri-color-5: rgb(255, 255, 255);
+    --color--colibri-color-6: rgb(236, 235, 235);
+  }
