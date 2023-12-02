@@ -4,3 +4,4 @@ Flask-Migrate==4.0.5
 python-dotenv==1.0.0
 flake8==6.1.0
 gunicorn==21.2.0
+qrcode==7.4.2

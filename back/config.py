@@ -12,3 +12,6 @@ class Config:
         DATABASE_URI = 'sqlite:///' + os.path.join(basedir, 'app.db')
     SQLALCHEMY_DATABASE_URI = DATABASE_URI
     SQLALCHEMY_TRACK_MODIFICATIONS = False
+
+
+MEDIA_FOLDER = os.path.join(basedir, 'media')
